@@ -1,4 +1,4 @@
 Calculatrice 
  Très simple à utiliser 
- permettant d'effectuer des simples opera
- arithmétique 
+ permettant d'effectuer des simples opérations 
+ arithmétiques
