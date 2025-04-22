@@ -1,4 +1,4 @@
-# La réalisation de ce projet 
+il# La réalisation de ce projet 
 passe par les étapes suivantes :
 *la création du compte Github:
 En remplissant le formulaire de création avec les informations suivantes :
@@ -7,4 +7,7 @@ En remplissant le formulaire de création avec les informations suivantes :
 *Puis sélectionnez sur l'option dépôt dans vos projets.
 *Puis sélectionnez nouveau.
 *Puis remplir le formulaire de création du nouveau dépôt et cliquez sur créer un nouveau référentiel.
-*Puis 
+*Puis cliquez sur les trois (...) juste à côté du menu déroulant code.
+*En suite sélectionné créer un nouveau fichier.
+*puis entrez les différents infos.
+*cliquez sur 
